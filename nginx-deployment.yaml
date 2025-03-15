@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: <your-dockerhub-username>/my-nginx-site:v1
+        image: eliyashlomo7/my-nginx-site:v1
         ports:
         - containerPort: 80
 
